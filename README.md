@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swxrit-js/DSA/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/swxrit-js/DSA/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
