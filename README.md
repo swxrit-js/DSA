@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/swxrit-js/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swxrit-js/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/swxrit-js/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/swxrit-js/DSA/tree/master/0054-spiral-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swxrit-js/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swxrit-js/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/swxrit-js/DSA/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/swxrit-js/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/swxrit-js/DSA/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/swxrit-js/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/swxrit-js/DSA/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/swxrit-js/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
