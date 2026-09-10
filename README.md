@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swxrit-js/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swxrit-js/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/swxrit-js/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/swxrit-js/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/swxrit-js/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swxrit-js/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/swxrit-js/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/swxrit-js/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/swxrit-js/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
