@@ -6,20 +6,23 @@ class Solution {
         {
             Arrays.fill(board[i],'.');
         }
-        int colIndex=0;
 
         List<List<String>> ans=new ArrayList<>();
-        solve(board,n,colIndex,ans);
+
+        int colIndex=0;
+
+        solve(board,n,ans,colIndex);
 
         return ans;
+
     }
-    static void solve(char[][] board, int n, int colIndex,List<List<String>> ans)
+    static void solve(char[][] board,int n, List<List<String>> ans, int colIndex)
     {
         if(colIndex>=n)
         {
             List<String> temp=new ArrayList<>();
             for(int i=0;i<n;i++){
-              temp.add(new String(board[i]));
+            temp.add(new String(board[i]));
             }
             ans.add(temp);
             return;
@@ -30,50 +33,47 @@ class Solution {
             {
                 board[rowIndex][colIndex]='Q';
 
-                solve(board,n,colIndex+1,ans);
+                solve(board,n,ans,colIndex+1);
 
                 board[rowIndex][colIndex]='.';
             }
         }
     }
-    static boolean isSafeToPlace(int rowIndex,int colIndex, int n, char[][] board)
+
+    static boolean isSafeToPlace(int rowIndex,int colIndex,int n, char[][] board)
+    {
+        int row=rowIndex;
+        int col=colIndex;
+        while(col>=0)
         {
-            int row=rowIndex;
-            int col=colIndex;
-
-            while(col>=0)
+            if(board[row][col]=='Q')
             {
-                if(board[row][col]=='Q')
-                {
-                    return false;
-                }
-                col--;
+                return false;
             }
-            row=rowIndex;
-            col=colIndex;
-
-            while(row>=0 && col>=0)
-            {
-                if(board[row][col]=='Q')
-                {
-                    return false;
-                }
-                row--;
-                col--;
-            }
-
-            row=rowIndex;
-            col=colIndex;
-
-            while(row<n && col>=0)
-            {
-                if(board[row][col]=='Q')
-                {
-                    return false;
-                }
-                row++;
-                col--;
-            }
-            return true;
+            col--;
         }
+        row=rowIndex;
+        col=colIndex;
+        while(row>=0 && col>=0)
+        {
+            if(board[row][col]=='Q')
+            {
+                return false;
+            }
+            col--;
+            row--;
+        }
+        row=rowIndex;
+        col=colIndex;
+        while(row<n && col>=0)
+        {
+            if(board[row][col]=='Q')
+            {
+                return false;
+            }
+            row++;
+            col--;
+        }
+        return true;
+    }
 }
