@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/swxrit-js/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swxrit-js/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/swxrit-js/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/swxrit-js/DSA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/swxrit-js/DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/swxrit-js/DSA/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/swxrit-js/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/swxrit-js/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swxrit-js/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/swxrit-js/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/swxrit-js/DSA/tree/master/0051-n-queens) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/swxrit-js/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/swxrit-js/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
