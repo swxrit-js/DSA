@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swxrit-js/DSA/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/swxrit-js/DSA/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/swxrit-js/DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/swxrit-js/DSA/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/swxrit-js/DSA/tree/master/0509-fibonacci-number) |
