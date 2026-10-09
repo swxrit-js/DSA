@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/swxrit-js/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/swxrit-js/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -160,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/swxrit-js/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/swxrit-js/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
