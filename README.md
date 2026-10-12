@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swxrit-js/DSA/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/swxrit-js/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swxrit-js/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/swxrit-js/DSA/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/swxrit-js/DSA/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |
