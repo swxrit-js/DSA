@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/swxrit-js/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swxrit-js/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/swxrit-js/DSA/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swxrit-js/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swxrit-js/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swxrit-js/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swxrit-js/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/swxrit-js/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swxrit-js/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swxrit-js/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/swxrit-js/DSA/tree/master/0242-valid-anagram) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swxrit-js/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/swxrit-js/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swxrit-js/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/swxrit-js/DSA/tree/master/0242-valid-anagram) |
 ## Greedy
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/swxrit-js/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/swxrit-js/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/swxrit-js/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
