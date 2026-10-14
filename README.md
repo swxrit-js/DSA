@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swxrit-js/DSA/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/swxrit-js/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/swxrit-js/DSA/tree/master/0242-valid-anagram) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swxrit-js/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/swxrit-js/DSA/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/swxrit-js/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/swxrit-js/DSA/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/swxrit-js/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/swxrit-js/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swxrit-js/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/swxrit-js/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/swxrit-js/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/swxrit-js/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/swxrit-js/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/swxrit-js/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/swxrit-js/DSA/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/swxrit-js/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
