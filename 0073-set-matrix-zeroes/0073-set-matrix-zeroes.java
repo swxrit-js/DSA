@@ -1,22 +1,22 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
+        int n=matrix.length;
+        int m=matrix[0].length;
 
-        int[][] temp = new int[n][m];
-
-        for (int q = 0; q < n; q++) {
-            for (int w = 0; w < m; w++) {
-                temp[q][w] = matrix[q][w];
+        int[][] temp=new int[n][m];
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                temp[i][j]=matrix[i][j];
             }
         }
 
-        int top = 0;
-        int bottom = n - 1;
-        int left = 0;
-        int right = m - 1;
+        int top=0;
+        int bottom=n-1;
+        int left=0;
+        int right=m-1;
 
-        
         for(int i=top;i<=bottom;i++)
         {
             for(int j=left;j<=right;j++)
