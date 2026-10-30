@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/swxrit-js/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/swxrit-js/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/swxrit-js/DSA/tree/master/0070-climbing-stairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/swxrit-js/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/swxrit-js/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/swxrit-js/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/swxrit-js/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0032-longest-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
