@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/swxrit-js/DSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swxrit-js/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swxrit-js/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swxrit-js/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/swxrit-js/DSA/tree/master/0867-transpose-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/swxrit-js/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/swxrit-js/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/swxrit-js/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swxrit-js/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/swxrit-js/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/swxrit-js/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swxrit-js/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
