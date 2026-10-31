@@ -237,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/swxrit-js/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
