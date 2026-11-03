@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/swxrit-js/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/swxrit-js/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/swxrit-js/DSA/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swxrit-js/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/swxrit-js/DSA/tree/master/0867-transpose-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swxrit-js/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/swxrit-js/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/swxrit-js/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0735-asteroid-collision](https://github.com/swxrit-js/DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/swxrit-js/DSA/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/swxrit-js/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/swxrit-js/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/swxrit-js/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/swxrit-js/DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/swxrit-js/DSA/tree/master/0735-asteroid-collision) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
